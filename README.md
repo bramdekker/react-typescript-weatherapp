@@ -1,8 +1,8 @@
 # React Weather App
 
-<p float="left">
-  <img src="/src/images/example_day.png" alt="Screenshot of app in day theme" width="500" />
-  <img src="/src/images/example_night.png" alt="Screenshot of app in night theme" width="500" /> 
+<p float="left" style={display:}>
+  <img src="/src/images/example_day.png" alt="Screenshot of app in day theme" width="400" />
+  <img src="/src/images/example_night.png" alt="Screenshot of app in night theme" width="400" /> 
 </p>
 
 Idea from: [https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Weather-App.md](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Weather-App.md).
