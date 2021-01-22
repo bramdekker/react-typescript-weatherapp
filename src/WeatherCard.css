@@ -1,0 +1,59 @@
+.weatherCard {
+  box-sizing: border-box;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  text-align: left;
+  width: 30%;
+  height: 200px;
+  padding: 10px 25px;
+  border: 2px solid #202020;
+  border-radius: 15px;
+  background-color: #f0f0f0;
+}
+
+.cityTitle {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+.tempIcon {
+  height: 75px;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tempIcon h1 {
+  margin: 0;
+  font-size: 50px;
+}
+
+.iconWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.iconWrapper img {
+  margin-bottom: 10px;
+}
+
+.tempSwitch {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.tempSwitch input {
+  margin: 0;
+  padding: 0;
+}
+
+.tempSwitch label {
+  padding-left: 5px;
+}

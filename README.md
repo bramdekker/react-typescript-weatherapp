@@ -1,3 +1,12 @@
+# React Weather App
+
+<p float="left">
+  <img src="/images/example_day.png" alt="Screenshot of app in day theme" width="200" />
+  <img src="/images/example_night.png" alt="Screenshot of app in night theme" width="200" /> 
+</p>
+
+Idea from: [https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Weather-App.md](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Weather-App.md).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
